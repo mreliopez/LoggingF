@@ -1,0 +1,8 @@
+[ 2016-11-13 12:39:39 ] [ Trace ] Program >> Mensaje 1
+[ 2016-11-13 12:39:39 ] [ Info ] Program >> Mensaje 2
+[ 2016-11-13 12:39:39 ] [ Debug ] Program >> Mensaje 3
+[ 2016-11-13 12:39:39 ] [ Notice ] Program >> Mensaje 4
+[ 2016-11-13 12:39:39 ] [ Warning ] Program >> Mensaje 5
+[ 2016-11-13 12:39:39 ] [ Error ] Program >> Mensaje 6
+[ 2016-11-13 12:39:39 ] [ Critical ] Program >> Mensaje 7
+

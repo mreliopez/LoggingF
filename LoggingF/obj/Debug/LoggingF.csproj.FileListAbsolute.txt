@@ -1,0 +1,13 @@
+C:\Users\eselv\OneDrive\SGI\libs\LoggingF\LoggingF\bin\Debug\LoggingF.dll
+C:\Users\eselv\OneDrive\SGI\libs\LoggingF\LoggingF\bin\Debug\LoggingF.pdb
+C:\Users\eselv\OneDrive\SGI\libs\LoggingF\LoggingF\obj\Debug\LoggingF.dll
+C:\Users\eselv\OneDrive\SGI\libs\LoggingF\LoggingF\obj\Debug\LoggingF.pdb
+C:\Users\eselv\OneDrive\SGI\libs\deploy\logf\version
+C:\Users\eselv\OneDrive\SGI\libs\deploy\logf\LoggingF.dll
+C:\Users\eselv\OneDrive\SGI\libs\deploy\logf\LoggingF.pdb
+C:\helium\librerias\deploy\logf\version
+C:\helium\librerias\deploy\logf\LoggingF.dll
+C:\helium\librerias\deploy\logf\LoggingF.pdb
+C:\helium\librerias\LoggingF\LoggingF\obj\Debug\LoggingF.csprojResolveAssemblyReference.cache
+C:\helium\librerias\LoggingF\LoggingF\obj\Debug\LoggingF.dll
+C:\helium\librerias\LoggingF\LoggingF\obj\Debug\LoggingF.pdb

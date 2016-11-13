@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoggingF", "LoggingF\LoggingF.csproj", "{2E9D0AFF-3008-414A-9C05-C1EB664AE528}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFTest", "LogFTest\LogFTest.csproj", "{A2399F64-EDE3-49BE-BEF3-9D13BC11B7A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E9D0AFF-3008-414A-9C05-C1EB664AE528}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E9D0AFF-3008-414A-9C05-C1EB664AE528}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E9D0AFF-3008-414A-9C05-C1EB664AE528}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E9D0AFF-3008-414A-9C05-C1EB664AE528}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2399F64-EDE3-49BE-BEF3-9D13BC11B7A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2399F64-EDE3-49BE-BEF3-9D13BC11B7A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2399F64-EDE3-49BE-BEF3-9D13BC11B7A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2399F64-EDE3-49BE-BEF3-9D13BC11B7A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
